@@ -1,0 +1,26 @@
+.Navegadores {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  .Navegado {
+    background: white;
+  }
+  
+  .Navegadores > h1,
+  .Navegado {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .Navegado > h2, 
+  .Navegado > p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  
+  #Cabeçalho {
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+  }

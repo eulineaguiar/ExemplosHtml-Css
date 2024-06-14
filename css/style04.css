@@ -1,0 +1,11 @@
+.square-list {
+    list-style-type: square;
+}
+
+.circle-list {
+    list-style-type: circle;
+}
+
+.no-style-list {
+    list-style-type: none;
+}
